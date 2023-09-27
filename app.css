@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,700&family=Work+Sans:wght@200&display=swap');
+body {
+ font-family: 'Roboto', sans-serif;
+}
+/*  */
+h1 {
+  text-align: center;
+  font: weight 400;
+  text-decoration: #23af13 wavy underline;
+  letter-spacing:10px; 
+  font-size:50px;
+  font-family: font-family: 'Work Sans', sans-serif;
+
+}
+
+
+p{
+    text-align: right;
+    line-height: 2;
+}
+
+a{
+    text-decoration: none;
+}
